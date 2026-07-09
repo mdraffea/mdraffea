@@ -13,7 +13,7 @@
 
 <samp>- 📫 Reach me at raffeachisti@gmail.com</samp>
 
-<samp>- 💻 Frontend Developer</samp>
+<samp>- 💻 Mern Developer</samp>
 
 
 
@@ -33,11 +33,11 @@
       <br>X
     </td>
     <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" />
+        <img src="https://raw.githubusercontent.com/mdraffea/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" />
       <br>Leetcode
     </td>
        <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="icon" width="45" height="45" />
+        <img src="https://raw.githubusercontent.com/mdraffea/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="icon" width="45" height="45" />
       <br>Medium
     </td>
   </tr>
